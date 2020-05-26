@@ -12,7 +12,7 @@
 	<StuffList.Base.ArmorBlunt>Armor - Blunt</StuffList.Base.ArmorBlunt>
 	<StuffList.Base.ArmorHeat>Armor - Heat</StuffList.Base.ArmorHeat>
 	<StuffList.Base.InsulCold>Cold Insulation</StuffList.Base.InsulCold>
-	<StuffList.Base.InsulHot>Hot Insulation</StuffList.Base.InsulHot>
+	<StuffList.Base.InsulHot>Heat Insulation</StuffList.Base.InsulHot>
 	<StuffList.Base.DmgSharp>Sharp Damage %</StuffList.Base.DmgSharp>
 	<StuffList.Base.DmgBlunt>Blunt Damage %</StuffList.Base.DmgBlunt>
 	<StuffList.Offset.Beauty>+ Beauty</StuffList.Offset.Beauty>
@@ -20,6 +20,6 @@
 	<StuffList.Factor.Beauty>% Beauty</StuffList.Factor.Beauty>
 	<StuffList.Factor.WorkMake>Work to Make</StuffList.Factor.WorkMake>
 	<StuffList.Factor.WorkBuild>Work to Build</StuffList.Factor.WorkBuild>
-	<StuffList.Factor.Flammability>Flammability</StuffList.Factor.Flammability>
+	<StuffList.Factor.Flammability>Flamma- bility</StuffList.Factor.Flammability>
 	<StuffList.Factor.MeleeCooldown>Melee Cooldown</StuffList.Factor.MeleeCooldown>
 </LanguageData>	

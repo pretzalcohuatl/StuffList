@@ -10,7 +10,7 @@ namespace StuffList
     public class MainTabWindow_StuffList : MainTabWindow
     {
         public override Vector2 InitialSize => new Vector2(
-                    ICON_WIDTH + LABEL_WIDTH + 14*STAT_WIDTH + 30,
+                    ICON_WIDTH + LABEL_WIDTH + 15*STAT_WIDTH + 30,
                     800);
 
         // Display variables
